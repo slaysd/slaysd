@@ -1,4 +1,7 @@
 # Who am I
+
+![slaysd's github stats](https://github-readme-stats.vercel.app/api?username=slaysd&show_icons=true)
+
 * **Jeeseung Han (한지승)** - https://hashbox.github.io
 * Master of Computer Science and Engineering(MCSE) by Seoul National University, Korea
 

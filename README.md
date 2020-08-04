@@ -1,5 +1,5 @@
 # Who am I
-* **Jeeseung Han (한지승)** - https://hashbox.github.io
+* **Jeeseung Han (한지승)** - (CV: https://hashbox.github.io)
 * Master of Computer Science and Engineering(MCSE) by Seoul National University, Korea
 
 ![slaysd's github stats](https://github-readme-stats.vercel.app/api?username=slaysd&show_icons=true)
@@ -8,3 +8,5 @@
 Intelligent Service Team Leader, IntelliSys Corporation (2018~now)
 
 # Research Interests
+- Object detection including instance segmetation, panoptic segmentation
+- Latent feature generative model (e.g. super-resolved gan, encoder2decoder)

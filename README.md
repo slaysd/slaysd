@@ -8,6 +8,7 @@ Intelligent Service Team Leader, IntelliSys Corporation (2018~now)
 # Research Interests
 - Object detection including instance segmetation, panoptic segmentation
 - Latent feature generative model (e.g. super-resolved gan, encoder2decoder)
+- Feature representation
 
 ---
 

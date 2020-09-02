@@ -12,4 +12,4 @@ Intelligent Service Team Leader, IntelliSys Corporation (2018~now)
 
 ---
 
-![slaysd's github stats](https://github-readme-stats.vercel.app/api?username=slaysd&show_icons=true)
+![slaysd's github stats](https://github-readme-stats.vercel.app/api?username=slaysd&show_icons=true&count_private=true)

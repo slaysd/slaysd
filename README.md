@@ -3,7 +3,8 @@
 * Master of Computer Science and Engineering(MCSE) by Seoul National University, Korea
 
 # Experience
-Intelligent Service Team Leader, IntelliSys Corporation (2018~now)
+- AI Product Team Engineer, Clova, Naver Corporation (2020~now)
+- Intelligent Service Team Leader, IntelliSys Corporation (2018~2020)
 
 # Research Interests
 - Object detection including instance segmetation, panoptic segmentation

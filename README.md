@@ -3,7 +3,7 @@
 * Master of Computer Science and Engineering(MCSE) by Seoul National University, Korea
 
 # Experience
-- AI Product Team Engineer, Clova CIC, Naver Corporation (2020~now)
+- MLOps Engineer, Clova CIC, Naver Corporation (2020~now)
 - Intelligent Service Team Leader, IntelliSys Corporation (2018~2020)
 
 # Research Interests

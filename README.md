@@ -4,7 +4,7 @@
   * Intelligent Data Systems Laboratory (IDS) - https://ids.snu.ac.kr/
 
 # Experience
-- MLOps Engineer, Clova CIC, Naver Corporation (2020~now)
+- MLOps Engineer, [Clova CIC](https://www.clova.ai), [Naver Corporation](https://www.navercorp.com) (2020~now)
 - Intelligent Service Team Leader, IntelliSys Corporation (2018~2020)
 
 # Research Interests

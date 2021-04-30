@@ -2,7 +2,7 @@
 * **Jeeseung Han (한지승)** - (CV: https://hashbox.github.io)
 * Master of Computer Science and Engineering(MCSE) by Seoul National University, Korea
   * Intelligent Data Systems Laboratory (IDS) - https://ids.snu.ac.kr/
-  * 
+
 # Experience
 - MLOps Engineer, Clova CIC, Naver Corporation (2020~now)
 - Intelligent Service Team Leader, IntelliSys Corporation (2018~2020)
